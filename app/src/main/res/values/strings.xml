@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">PortofolioNavigasi</string>
+
+    <string name="affirmation1">Hope.</string> //bagian judul portofolio
+    <string name="affirmation2">The Joy of Music.</string>
+    <string name="affirmation3">Book Tent.</string>
+    <string name="affirmation4">Chilling out.</string>
+    <string name="affirmation5">Vibrant Cartoon Monster.</string>
+    <string name="affirmation6">Butterfly of the Sun.</string>
+    <string name="affirmation7">Moon Bike.</string>
+    <string name="affirmation8">Musical Pleasure.</string>
+    <string name="affirmation9">Self Journey.</string>
+    <string name="affirmation10">Woman and Deer.</string>
+
+
+    //bagian deskripsi portofolio yang digunakna dalam pop up detail dialog
+    <string name="porto_1_desc">This image can be interpreted in various ways. Some may see it as a symbol of hope amidst adversity. The man may represent someone who is struggling through difficult times in his life. The light at the end of the tunnel may represent hope for a better future.</string>
+    <string name="porto_2_desc">This image shows a group of people dancing and listening to music. These people come from various ages and backgrounds. They look very happy and enjoying themselves. Music plays an important role in this picture. Music is a source of joy and togetherness.</string>
+    <string name="porto_3_desc">This image shows a book-shaped tent. This tent is made of colorful fabric, with open book pages as the walls. At the front of the tent, there is a door with the words "Books are windows to the world". This image depicts a metaphor about the importance of reading. </string>
+    <string name="porto_4_desc">This image as a reminder that we all need to take time to relax and enjoy life. We dont have to always be busy and in a hurry. We need to take time for ourselves, and enjoy the little moments in life. This image can also be seen as a symbol of freedom and self-expression.</string>
+    <string name="porto_5_desc">This image shows an animated cartoon monster. The monster has a large, green body, with red eyes and sharp teeth. The monster had long arms stretched upwards, as if it was celebrating something. The background of the image is bright blue, which adds a cheerful and enthusiastic impression..</string>
+    <string name="porto_6_desc">This image can be interpreted in various ways. Some may see it as a representation of freedom and hope. Butterflies are creatures that symbolize transformation and change, showing that we can grow and develop into better versions of ourselves.</string>
+    <string name="porto_7_desc">This image can be interpreted in various ways. Some people may see it as a representation of dreams and hopes. The man represents everyone who dreams of exploring outer space. The bicycle represents a tool to achieve that dream. Others may see it as a representation of freedom and adventure. </string>
+    <string name="porto_8_desc">This image can be interpreted in various ways. Some people may see it as a representation of peace and tranquility. The man represents everyone who is looking for peace and tranquility in their lives. The music represents a tool to achieve that peace and tranquility.</string>
+    <string name="porto_9_desc">This image can be interpreted in various ways. Some people may see it as a representation of the process of personal growth and development. This woman represents everyone who is looking for their identity. The stairs represent the journey that must be taken to find one identity.</string>
+    <string name="porto_10_desc">This image is a beautiful and meaningful work of art. The image depicts the relationship between humans and nature. The woman represents humans who live in harmony with nature. The deer represent nature which provides beauty and peace.</string>
+
+    <string name="creator">By Putri Dwi Oktaviani</string>
+    <string name="main">Daftar Portofolio</string>
+    <string name="detail">Detail Portofolio</string>
+</resources>
